@@ -1,0 +1,10 @@
+Hello World
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+ssh -i "D:\.Birb Staff\Birb Staff\.Coding\Excerises\.key\JumpGuidemy.pem" ubuntu@jump.guidemy.io
+
