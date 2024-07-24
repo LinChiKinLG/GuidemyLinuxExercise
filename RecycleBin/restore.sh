@@ -1,3 +1,5 @@
+#!/bin/bash
+
 declare arg0="$(basename $0)";
 declare RECYCLEBIN="${HOME}/recyclebin";
 declare RESTORE_INFO="${HOME}/.restore.info";
