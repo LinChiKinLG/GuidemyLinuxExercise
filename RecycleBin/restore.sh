@@ -14,7 +14,10 @@ function restore(){
 	mv "${RECYCLEBIN}/$1" "$2";
 	sed -i "/^$1/d" $RESTORE_INFO;
 }
-
+if [ ! -f $RESTORE_INFO ]; then
+	touch $RESTORE_INFO;
+	echo ".restore.info is created for you now";
+fi
 if [ ! -e $RECYCLEBIN ]; then
         mkdir $RECYCLEBIN;
         echo "recyclebin is created for you now";
