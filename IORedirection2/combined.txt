@@ -1,0 +1,2 @@
+Hello, World!
+cat: NOTEXIST: No such file or directory
